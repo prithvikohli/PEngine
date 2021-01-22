@@ -1,5 +1,5 @@
 # PEngine
-![render](render.png)
+![render](https://github.com/prithvikohli/PEngine/blob/main/render.PNG?raw=true)
 Game engine I'm making using C++ and OpenGL to learn real-time rendering. Books/websites I'm using to learn are: 
 - [LearnOpenGL](https://learnopengl.com/) 
 - [Real-time Rendering](https://www.realtimerendering.com/)
