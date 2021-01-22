@@ -1,6 +1,8 @@
 # PEngine
 ![render](https://github.com/prithvikohli/PEngine/blob/main/render.PNG?raw=true)
-Game engine I'm making using C++ and OpenGL to learn real-time rendering. Books/websites I'm using to learn are: 
+Game engine I'm making using C++ and OpenGL to learn real-time rendering. Currently implementing environment mapping and entity behaviours. Planning to implement features such as a physics engine and physically-based shading.
+
+Books/websites I'm using to learn are: 
 - [LearnOpenGL](https://learnopengl.com/) 
 - [Real-time Rendering](https://www.realtimerendering.com/)
 - [Fundamentals of Computer Graphics](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shirley/p/book/9781482229394)
